@@ -1,7 +1,7 @@
 Who am I? Nobody
 
-[![BlackHole Security](https://img.shields.io/badge/team-BlackHole%20Security-ocean.svg)](https://github.com/BlackHoleSecurity)
-[![Schadenfreude](https://img.shields.io/badge/founder-Schadenfreude-red.svg)](https://t.me/schdenfreude)
+[![BlackHole Security](https://img.shields.io/badge/Founder-BlackHole%20Security-black.svg)](https://github.com/BlackHoleSecurity)  
+[![Schadenfreude](https://img.shields.io/badge/Founder-Schadenfreude-red.svg)](https://t.me/schdenfreude)
 
 Skill:
 - Java
